@@ -47,7 +47,7 @@ Attach an execution screenshot within the document.
 This screenshot must show the program output and include either your computer profile name or your name clearly visible.
 
 ### Program Output Screenshot
-![Pyramid Output](Screenshot2.png)
+![Pyramid Program Output](Screenshot2.png)
 
 4.	(5 points)
 Create a GitHub account. You may use your personal email.
